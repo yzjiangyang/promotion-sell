@@ -1,4 +1,7 @@
 HELP.md
+generatorConfig.xml
+src/main/java/resources/generatorConfig.xml
+src/main/java/resources/application.properties
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
